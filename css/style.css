@@ -1,3 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Antonio&family=Open+Sans&family=Roboto&display=swap");
+header {
+  height: 200px;
+}
 
+#aviso {
+  text-align: center;
+}
+
+#aviso h1 {
+  color: #ff9f1c;
+  font-family: "Antonio";
+  font-weight: bold;
+}
+
+#aviso p {
+  color: #2ec4b6;
+  font-family: "Open Sans";
+}
+
+body a {
+  text-decoration: none;
+  color: #011627;
+}
+
+body img {
+  width: 100px;
+}
 
 /*# sourceMappingURL=style.css.map */
